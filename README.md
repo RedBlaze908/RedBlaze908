@@ -62,9 +62,11 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedBlaze908)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="text-align:center;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RedBlaze908&count_private=true&show_icons=true&count_private=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBlaze908&count_private=true&layout=compact&theme=dracula" />
+  </a>
+</p
