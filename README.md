@@ -4,7 +4,7 @@
 - Informatica e Telecomunicazioni 🎓
 - Developer - Web Dveloper - Gamer
 
-- 🔭 I’m currently working on 
+- 🔭 I don't currently work
 - 🌱 I’m currently studing at ITIS
 - ⚡ Fun fact: i like SUSHI!
 
