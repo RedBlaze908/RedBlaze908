@@ -61,6 +61,20 @@
 <br />
 
 ---
+<br />
+
+## 📫 How to reach me:
+<p>
+  <a href="https://t.me/LoreSchaeffer"><img align="left" alt="Telegram" width="26px" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667"/></a>Telegram &middot; <a href="https://t.me/RedBlaze908">@RedBlaze908</a>
+</p>
+<p>
+  <a href="https://twitch.tv/LoreSchaeffer"><img align="left" alt="Twitch" width="26px" src="https://camo.githubusercontent.com/c5942c39052ad962364ea8286a6991f7a9b036bf1d96d20db346d9dfd844dfa4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7477697463682e737667"/></a>Twitch &middot; <a href="https://www.twitch.tv/redblaze90">twitch.tv/RedBlaze90</a>
+</p>
+<p>
+  <a href="https://instagram.com/LoreSchaeffer"><img align="left" alt="Instagram" width="26px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"/></a>Instagram &middot; <a href="https://instagram.com/RedBlaze908">@redblaze908</a>
+</p>
+<p>
+  <img align="left" alt="Minecraft" width="26px" src="https://camo.githubusercontent.com/3d0505504307fefab48b4d3f530827abe91beab78c802c953cad19c182d8834b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d696e6563726166742e737667"/>Minecraft &middot; RedBlaze908
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="text-align:center;">
