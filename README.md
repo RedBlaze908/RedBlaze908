@@ -45,7 +45,7 @@
 <br />
 
 ---
-<br />
+
 ### 📱Application I use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/topics/visual-studio-code)
@@ -60,6 +60,7 @@
 
 <br />
 <br />
+<br />
 
 ---
 
@@ -70,7 +71,11 @@
 </p>
 
 <br />
+<br />
+<br />
+
 ---
+
 ### 💾 Operating systems I used:
 
 - Windows 10
@@ -79,10 +84,15 @@
 - Windows 7
 - Windows XP
 - Windows 98
----
+
 <br />
-### 📫 How to reach me:
+<br />
+<br />
+
 ---
+
+### 📫 How to reach me:
+
 <p>
   <a href="https://t.me/RedBlaze908"><img align="left" alt="Telegram" width="26px" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667"/></a>Telegram &middot; <a href="https://t.me/RedBlaze908">@RedBlaze908</a>
 </p>
