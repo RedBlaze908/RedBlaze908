@@ -62,7 +62,7 @@
 
 ---
 
-## has what I worked on:
+## 💻 What I worked on:
 
 <p>
   <a href="https://iccavaglia.it"><ing align="left" alt="iccavaglia" width="26px" src="https://iccavaglia.it"> <a href="https://iccavaglia.it">My first site</a>
