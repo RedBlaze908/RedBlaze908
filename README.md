@@ -7,6 +7,7 @@
 - 🔭 I don't currently work
 - 🌱 I’m currently studing at ITIS
 - ⚡ Fun fact: i like SUSHI!
+- 🇪🇺 I can speak: Italian, English, French
 
 ---
 
