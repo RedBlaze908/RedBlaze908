@@ -1,7 +1,7 @@
 ### About me:
 
 - sono giovane 😂
-- Informatica e Telecomunicazioni 🎓
+- IT and telecommunications 🎓
 - Developer - Web Dveloper - Gamer
 
 - 🔭 I don't currently work
