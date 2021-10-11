@@ -1,6 +1,6 @@
 ### About me:
 
-- sono giovane
+- sono giovane 😂
 - Informatica e Telecomunicazioni 🎓
 - Developer - Web Dveloper - Gamer
 
@@ -11,7 +11,7 @@
 
 ---
 
-### Languages I use:
+### 🖥Languages I use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/topics/visual-studio-code)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/html/html.png" />](https://github.com/topics/html)
@@ -46,7 +46,7 @@
 
 ---
 
-### Application I use:
+### 📱Application I use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/topics/visual-studio-code)
 [<img align="left" alt="Intellij IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />](https://www.jetbrains.com/idea/)
@@ -69,9 +69,18 @@
   <a href="https://iccavaglia.it"><ing align="left" alt="iccavaglia" width="26px" src="https://iccavaglia.it"> <a href="https://iccavaglia.it">My first site</a>
 </p>
 
-
 <br />
+---
+## 💾 Operating systems I used:
 
+- Windows 10
+- macOS
+- Linux
+- Windows 7
+- Windows XP
+- Windows 98
+---
+<br />
 ## 📫 How to reach me:
 ---
 <p>
