@@ -1,6 +1,6 @@
 ### About me:
 
-- sono giovane 😂
+- I am young 😂
 - IT and telecommunications 🎓
 - Developer - Web Dveloper - Gamer
 
