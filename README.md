@@ -68,7 +68,7 @@
 ### 💻 What I worked on:
 
 <p>
-  <a href="https://redblaze908s.wixsite.com/redblaze908-site"><ing align="left" alt="RedBlaze908 Sitec="https://iccavaglia.it"> <a href="https://iccavaglia.it">My site</a>
+  <a href="https://redblaze908s.wixsite.com/redblaze908-site"><ing align="left" alt="RedBlaze908 Sitec="https://redblaze908s.wixsite.com/redblaze908-site"> <a href="https://redblaze908s.wixsite.com/redblaze908-sitet">My site</a>
 </p>
 
 <br />
