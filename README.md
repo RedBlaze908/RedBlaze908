@@ -113,11 +113,6 @@
   <a href="https://www.youtube.com/@RedBlaze9080)"><img align="left" alt="Youtube" width="26px" src="https://assets.turbologo.com/blog/it/2019/10/19133255/youtube-logo-illustration-958x575.jpg"/></a>Youtube &middot; <a href="https://www.youtube.com/@RedBlaze9080">RedBlaze908</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="text-align:center;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RedBlaze908&count_private=true&show_icons=true&count_private=true&theme=dracula" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBlaze908&count_private=true&layout=compact&theme=dracula" />
-  </a>
-</p
+  <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=RedBlaze908&show_icons=true&theme=radical" />
+    
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBlaze908&layout=compact&theme=dracula" />
