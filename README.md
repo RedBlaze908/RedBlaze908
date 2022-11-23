@@ -1,5 +1,11 @@
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Hello I'm RedBlaze908
+</h1>
+
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCj1knSi3y6wTC-V-clmI2Aw?style=for-the-badge)
 ![Youtube Channel Views](https://img.shields.io/youtube/channel/views/UCj1knSi3y6wTC-V-clmI2Aw?style=for-the-badge)
+![Instagram](https://img.shields.io/youtube/channel/views/UCj1knSi3y6wTC-V-clmI2Aw?style=for-the-badge)
 
 ### About me:
 
