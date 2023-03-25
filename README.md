@@ -5,7 +5,7 @@ Hello I'm RedBlaze908
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCj1knSi3y6wTC-V-clmI2Aw?style=for-the-badge)
 ![Youtube Channel Views](https://img.shields.io/youtube/channel/views/UCj1knSi3y6wTC-V-clmI2Aw?style=for-the-badge)
-<a href="https://github.com/ForrestKnight?tab=followers">
+<a href="https://github.com/RedBlaze908?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RedBlaze908?color=red&labelColor=gray&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
          <a href="https://github.com/RedBlaze908?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RedBlaze908?color=red&style=for-the-badge&labelColor=gray&logo=star"/></a>
