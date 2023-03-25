@@ -125,3 +125,5 @@ Hello I'm RedBlaze908
   <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=RedBlaze908&show_icons=true&theme=radical" />
     
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBlaze908&layout=compact&theme=dracula" />
+
+![Snake animation](https://github.com/redblaze908/redblaze908/blob/output/github-contribution-grid-snake.svg)      
