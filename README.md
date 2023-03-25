@@ -2,6 +2,9 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 Hello I'm RedBlaze908
 </h1>
+<h3 align="center">
+         <b>Programmer | Gamer | Creator</b>
+</h3>
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCj1knSi3y6wTC-V-clmI2Aw?style=for-the-badge)
 ![Youtube Channel Views](https://img.shields.io/youtube/channel/views/UCj1knSi3y6wTC-V-clmI2Aw?style=for-the-badge)
@@ -9,14 +12,14 @@ Hello I'm RedBlaze908
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RedBlaze908?color=red&labelColor=gray&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
          <a href="https://github.com/RedBlaze908?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RedBlaze908?color=red&style=for-the-badge&labelColor=gray&logo=star"/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=redblaze908&label=Profile%20views&color=0e75b6&style=flat" alt="redblaze908" /> </p>
 
-**`RedBlaze908 (Programmer/Gamer/Creator)`**
 
 ### About me:
 
 - I am young 😂
 - IT and telecommunications 🎓
-- Developer - Web Dveloper - Gamer
+- Developer - Web Developer - Gamer
 
 - 🔭 I don't currently work
 - 🌱 I’m currently studing at ITIS
@@ -69,8 +72,8 @@ Hello I'm RedBlaze908
 [<img align="left" alt="OBS" width="26px" src="https://www.accuratereviews.com/wp-content/uploads/2019/02/OBS-Studio-logo.jpg" />](https://obsproject.com/)
 [<img align="left" alt="TeamViever" width="26px" src="http://www.j2k.it/Imm/pagine/24705/tw.jpg" />](https://www.teamviewer.com/it/)
 [<img align="left" alt="BlockBench" width="26px" src="https://user-images.githubusercontent.com/53346722/62156998-c389ae80-b2d1-11e9-9bae-c188ac6946ab.png" />](https://www.blockbench.net)
-[<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/unity/unity.png" />](https://github.com/topics/unity)
-[<img align="left" alt="Unreal Engine" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/unreal-engine/unreal-engine.png" />](https://github.com/topics/unreal-engine)
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="26" height="26"/>
+<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="26" height="26"/> </a>
 
 <br />
 <br />
@@ -83,20 +86,9 @@ Hello I'm RedBlaze908
 <p>
   <a href="https://redblaze908s.wixsite.com/redblaze908-site"><ing align="left" alt="RedBlaze908 Sitec="https://redblaze908s.wixsite.com/redblaze908-site"> <a href="https://redblaze908s.wixsite.com/redblaze908-site">My site</a>
 </p>
-
+<p>My own Programming Language</p>
 <br />
 <br />
-<br />
-
----
-
-### 💾 Operating systems I used:
-
-- Windows 11
-- Windows 10
-- Windows 7
-- Windows XP
-
 <br />
 
 ---
@@ -126,4 +118,10 @@ Hello I'm RedBlaze908
     
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBlaze908&layout=compact&theme=dracula" />
 
+
+
+           
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redblaze908&" alt="redblaze908" />
+    
+           
 ![Snake animation](https://github.com/redblaze908/redblaze908/blob/output/github-contribution-grid-snake.svg)      
