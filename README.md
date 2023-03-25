@@ -5,6 +5,12 @@ Hello I'm RedBlaze908
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCj1knSi3y6wTC-V-clmI2Aw?style=for-the-badge)
 ![Youtube Channel Views](https://img.shields.io/youtube/channel/views/UCj1knSi3y6wTC-V-clmI2Aw?style=for-the-badge)
+<a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RedBlaze908?color=red&labelColor=gray&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <a href="https://github.com/RedBlaze908?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RedBlaze908?color=red&style=for-the-badge&labelColor=gray&logo=star"/></a>
+
+**`RedBlaze908 (Programmer/Gamer/Creator)`**
 
 ### About me:
 
@@ -15,7 +21,7 @@ Hello I'm RedBlaze908
 - 🔭 I don't currently work
 - 🌱 I’m currently studing at ITIS
 - ⚡ Fun fact: i like SUSHI! and practical speedcube!
-- 🇪🇺 I can speak: Italian, English, French
+- 🇪🇺 I can speak: Italian, English
 
 ---
 
@@ -27,8 +33,6 @@ Hello I'm RedBlaze908
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/javascript/javascript.png" />](https://github.com/topics/javascript)
 [<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/wordpress/wordpress.png" />](https://github.com/topics/wordpress)
 [<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/json/json.png" />](https://github.com/topics/json)
-[<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/unity/unity.png" />](https://github.com/topics/unity)
-[<img align="left" alt="Unreal Engine" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/unreal-engine/unreal-engine.png" />](https://github.com/topics/unreal-engine)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/terminal/terminal.png" />](https://github.com/topics/terminal)
 [<img align="left" alt="GitHub API" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/github-api/github-api.png" />](https://github.com/topics/github-api)
 [<img align="left" alt="Chrome" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/chrome/chrome.png" />](https://github.com/topics/chrome)
@@ -40,16 +44,12 @@ Hello I'm RedBlaze908
 ---
 ### Programming Languages I Know A Little:
 
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/java/java.png" />](https://github.com/topics/java)
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png" />](https://github.com/topics/python)
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/cpp/cpp.png" />](https://github.com/topics/cpp)
+[<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>](https://github.com/topics/java)
+[<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />](https://github.com/topics/python)
+[<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />](https://github.com/topics/cpp)
 [<img align="left" alt="Gradle" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/gradle/gradle.png" />](https://github.com/topics/gradle)
-[<img align="left" alt="jQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/jquery/jquery.png" />](https://github.com/topics/jquery)
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/nodejs/nodejs.png" />](https://github.com/topics/nodejs)
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/csharp/csharp.png" />](https://github.com/topics/csharp)
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />](https://github.com/topics/bootstrap)
-[<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/ruby/ruby.png" />](https://github.com/topics/ruby)
-[<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />](https://github.com/topics/arduino)
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/php/php.png" />](https://github.com/topics/php)
 
 <br />
@@ -64,12 +64,13 @@ Hello I'm RedBlaze908
 [<img align="left" alt="Intellij IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />](https://www.jetbrains.com/idea/)
 [<img align="left" alt="Notepad++" width="26px" src="https://pbs.twimg.com/profile_images/1230290237500334081/_gXAv0GU_400x400.png" />](https://notepad-plus-plus.org/)
 [<img align="left" alt="Eclipse" width="26px" src="https://banner2.cleanpng.com/20180803/uoa/kisspng-eclipse-foundation-scalable-vector-graphics-clip-a-go-to-image-page-5b63ff39421380.6609515515332800572707.jpg" />](https://www.eclipse.org/)
-[<img align="left" alt="GitHub" width="26px" src="https://loghi-famosi.com/wp-content/uploads/2021/01/GitHub-Logo.png" />](https://github.com/)
-[<img align="left" alt="MCreator" width="26px" src="https://github.com/MCreator.png" />](https://mcreator.net/)
+[<img align="left" alt="GitHub API" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/github-api/github-api.png" />](https://github.com/topics/github-api)
 [<img align="left" alt="Dev-C++" width="26px" src="https://static.miraheze.org/nonciclopediawiki/a/a8/Dev-c%2B%2B_logo.png" />](https://sourceforge.net/projects/orwelldevcpp/)
 [<img align="left" alt="OBS" width="26px" src="https://www.accuratereviews.com/wp-content/uploads/2019/02/OBS-Studio-logo.jpg" />](https://obsproject.com/)
 [<img align="left" alt="TeamViever" width="26px" src="http://www.j2k.it/Imm/pagine/24705/tw.jpg" />](https://www.teamviewer.com/it/)
 [<img align="left" alt="BlockBench" width="26px" src="https://user-images.githubusercontent.com/53346722/62156998-c389ae80-b2d1-11e9-9bae-c188ac6946ab.png" />](https://www.blockbench.net)
+[<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/unity/unity.png" />](https://github.com/topics/unity)
+[<img align="left" alt="Unreal Engine" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/unreal-engine/unreal-engine.png" />](https://github.com/topics/unreal-engine)
 
 <br />
 <br />
@@ -91,10 +92,10 @@ Hello I'm RedBlaze908
 
 ### 💾 Operating systems I used:
 
+- Windows 11
 - Windows 10
 - Windows 7
 - Windows XP
-- Windows 98
 
 <br />
 
@@ -116,6 +117,9 @@ Hello I'm RedBlaze908
     </p>
 <p>
   <a href="https://www.youtube.com/@RedBlaze9080)"><img align="left" alt="Youtube" width="26px" src="https://assets.turbologo.com/blog/it/2019/10/19133255/youtube-logo-illustration-958x575.jpg"/></a>Youtube &middot; <a href="https://www.youtube.com/@RedBlaze9080">RedBlaze908</a>
+</p>
+<p>
+  <a href="https://discord.gg/kJyN47dVgU"><img align="left" alt="Discord" width="26px" src="https://play-lh.googleusercontent.com/xQ-meXSBylIU8VKA7yUQXDwRu99JX8ic7mAsM4sBidjRgtMyhBDmYD4CpATqrdc1SA=s48-rw"/></a>Discord &middot; <a href="https://discord.gg/kJyN47dVgU">My Server Discord</a>
 </p>
 
   <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=RedBlaze908&show_icons=true&theme=radical" />
