@@ -2,9 +2,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 Hello I'm RedBlaze908
 </h1>
-<h3 align="center">
-         <b>Programmer | Gamer | Creator</b>
-</h3>
+![logo](https://github.com/Ashutosh-PMishra/RedBlaze908/RedBlaze908/Github-Banner.png)
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCj1knSi3y6wTC-V-clmI2Aw?style=for-the-badge)
 ![Youtube Channel Views](https://img.shields.io/youtube/channel/views/UCj1knSi3y6wTC-V-clmI2Aw?style=for-the-badge)
