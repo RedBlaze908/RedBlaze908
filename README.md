@@ -11,7 +11,7 @@ Hello I'm RedBlaze908
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RedBlaze908?color=red&labelColor=gray&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
          <a href="https://github.com/RedBlaze908?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RedBlaze908?color=red&style=for-the-badge&labelColor=gray&logo=star"/>
-![Download My Language](https://img.shields.io/github/downloads/RedBlaze908/Blaze/latest/total?label=Download%20My%20Programming%20Language%20%7C%20Blaze)</a>
+<!--![Download My Language](https://img.shields.io/github/downloads/RedBlaze908/Blaze/latest/total?label=Download%20My%20Programming%20Language%20%7C%20Blaze)--></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redblaze908&label=Profile%20views&color=0e75b6&style=flat" alt="redblaze908" /> </p>
 
 
