@@ -125,4 +125,4 @@ Hello I'm RedBlaze908
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redblaze908&" alt="redblaze908" />
     
            
-![Snake animation](https://github.com/redblaze908/redblaze908/blob/output/github-contribution-grid-snake.svg)      
+![snake gif](https://github.com/RedBlaze908/RedBlaze908/blob/output/github-contribution-grid-snake.gif) 
