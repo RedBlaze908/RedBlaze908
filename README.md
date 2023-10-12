@@ -32,14 +32,12 @@ Hello I'm RedBlaze908
 ### 🖥Languages I use:
 
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />](https://github.com/topics/c)
+[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/cpp/cpp.png" />](https://github.com/topics/cpp)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/html/html.png" />](https://github.com/topics/html)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/css/css.png" />](https://github.com/topics/css)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/javascript/javascript.png" />](https://github.com/topics/javascript)
 [<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/wordpress/wordpress.png" />](https://github.com/topics/wordpress)
-[<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/json/json.png" />](https://github.com/topics/json)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/terminal/terminal.png" />](https://github.com/topics/terminal)
 [<img align="left" alt="GitHub API" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/github-api/github-api.png" />](https://github.com/topics/github-api)
-[<img align="left" alt="Chrome" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/chrome/chrome.png" />](https://github.com/topics/chrome)
 
 <br />
 <br />
@@ -55,6 +53,8 @@ Hello I'm RedBlaze908
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/nodejs/nodejs.png" />](https://github.com/topics/nodejs)
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/csharp/csharp.png" />](https://github.com/topics/csharp)
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/php/php.png" />](https://github.com/topics/php)
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/javascript/javascript.png" />](https://github.com/topics/javascript)
+[<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/json/json.png" />](https://github.com/topics/json)
 
 <br />
 <br />
@@ -71,8 +71,6 @@ Hello I'm RedBlaze908
 [<img align="left" alt="GitHub API" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/github-api/github-api.png" />](https://github.com/topics/github-api)
 [<img align="left" alt="Dev-C++" width="26px" src="https://static.miraheze.org/nonciclopediawiki/a/a8/Dev-c%2B%2B_logo.png" />](https://sourceforge.net/projects/orwelldevcpp/)
 [<img align="left" alt="OBS" width="26px" src="https://www.accuratereviews.com/wp-content/uploads/2019/02/OBS-Studio-logo.jpg" />](https://obsproject.com/)
-[<img align="left" alt="TeamViever" width="26px" src="http://www.j2k.it/Imm/pagine/24705/tw.jpg" />](https://www.teamviewer.com/it/)
-[<img align="left" alt="BlockBench" width="26px" src="https://user-images.githubusercontent.com/53346722/62156998-c389ae80-b2d1-11e9-9bae-c188ac6946ab.png" />](https://www.blockbench.net)
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="26" height="26"/>
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="26" height="26"/> </a>
 
@@ -87,7 +85,7 @@ Hello I'm RedBlaze908
 <p>
   <a href="https://redblaze908s.wixsite.com/redblaze908-site"><ing align="left" alt="RedBlaze908 Sitec="https://redblaze908s.wixsite.com/redblaze908-site"> <a href="https://redblaze908s.wixsite.com/redblaze908-site">My site</a>
 </p>
-<p>My own Programming Language</p>
+<p>Blaze Programmin Language</p>
 <br />
 <br />
 <br />
