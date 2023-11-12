@@ -32,12 +32,13 @@ Hello I'm RedBlaze908
 ### 🖥Languages I use:
 
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />](https://github.com/topics/c)
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/cpp/cpp.png" />](https://github.com/topics/cpp)
+[<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />](https://github.com/topics/cpp)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/html/html.png" />](https://github.com/topics/html)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/css/css.png" />](https://github.com/topics/css)
 [<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/wordpress/wordpress.png" />](https://github.com/topics/wordpress)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/terminal/terminal.png" />](https://github.com/topics/terminal)
 [<img align="left" alt="GitHub API" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/github-api/github-api.png" />](https://github.com/topics/github-api)
+[<img align="left" alt="Blaze" width="26px" src="https://github.com/RedBlaze908/RedBlaze908/blob/main/blaze%201.png" />](https://github.com/RedBlaze908/Blaze)
 
 <br />
 <br />
@@ -48,7 +49,6 @@ Hello I'm RedBlaze908
 
 [<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>](https://github.com/topics/java)
 [<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />](https://github.com/topics/python)
-[<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />](https://github.com/topics/cpp)
 [<img align="left" alt="Gradle" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/gradle/gradle.png" />](https://github.com/topics/gradle)
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/nodejs/nodejs.png" />](https://github.com/topics/nodejs)
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/csharp/csharp.png" />](https://github.com/topics/csharp)
@@ -70,7 +70,8 @@ Hello I'm RedBlaze908
 [<img align="left" alt="Eclipse" width="26px" src="https://banner2.cleanpng.com/20180803/uoa/kisspng-eclipse-foundation-scalable-vector-graphics-clip-a-go-to-image-page-5b63ff39421380.6609515515332800572707.jpg" />](https://www.eclipse.org/)
 [<img align="left" alt="GitHub API" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/github-api/github-api.png" />](https://github.com/topics/github-api)
 [<img align="left" alt="Dev-C++" width="26px" src="https://static.miraheze.org/nonciclopediawiki/a/a8/Dev-c%2B%2B_logo.png" />](https://sourceforge.net/projects/orwelldevcpp/)
-[<img align="left" alt="OBS" width="26px" src="https://www.accuratereviews.com/wp-content/uploads/2019/02/OBS-Studio-logo.jpg" />](https://obsproject.com/)
+[<img align="left" alt="Obsidian" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" />](https://obsidian.md/)
+[<img align="left" alt="Draw io" width="26px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png" />](https://app.diagrams.net/)
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="26" height="26"/>
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="26" height="26"/> </a>
 
