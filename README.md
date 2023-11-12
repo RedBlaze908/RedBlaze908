@@ -85,7 +85,7 @@ Hello I'm RedBlaze908
 <p>
   <a href="https://redblaze908s.wixsite.com/redblaze908-site"><ing align="left" alt="RedBlaze908 Sitec="https://redblaze908s.wixsite.com/redblaze908-site"> <a href="https://redblaze908s.wixsite.com/redblaze908-site">My site</a>
 </p>
-<p>Blaze Programmin Language</p>
+<p>Blaze Programmin Language 1.0</p>
 <br />
 <br />
 <br />
