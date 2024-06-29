@@ -30,7 +30,7 @@
 
 ### 🖥Languages I use:
 
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,wordpress" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,bootstrap,wordpress" />
 <img align="left" alt="Blaze" width="40px" src="https://github.com/RedBlaze908/RedBlaze908/blob/main/blaze%201.png" href="https://github.com/RedBlaze908/Blaze"/>
 
 <br />
@@ -39,7 +39,7 @@
 
 ---
 ### Programming Languages I Know A Little:
-<img src="https://skillicons.dev/icons?i=java,cs,php,javascript" />
+<img src="https://skillicons.dev/icons?i=java,cs,php,javascript,react" />
 <br />
 
 ---
@@ -71,6 +71,8 @@
 <p>Blaze Programming Language v1.0 (I am working on a compiled version)</p>
 <p>Blaze Programming Language Site</p>
 <p>Mystic Shadows (video game)</p>
+<p>SpeedCubeTrainer</p>
+<p>Chess+ (video game made only with c++)</p>
 
 ---
 
