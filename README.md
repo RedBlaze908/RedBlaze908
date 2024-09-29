@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+RedBlaze908+!;Blaze+Programming+Language!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+RedBlaze908+!;I'm a Youtuber;" />
 </h1>
 
 ![logo](https://github.com/RedBlaze908/RedBlaze908/blob/main/banner.png)
@@ -46,7 +46,6 @@
 ### 📱Application I use:
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,obsidian,eclipse,unity,unreal,godot" />
 <img align="left" alt="Notepad++" width="40px" src="https://pbs.twimg.com/profile_images/1230290237500334081/_gXAv0GU_400x400.png" />
-<img align="left" alt="Eclipse" width="40px" src="https://algol.dev/wp-content/uploads/2020/10/logo-eclipse.png" />
 <img align="left" alt="Draw io" width="40px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png" />
 <br />
 <br />
@@ -67,13 +66,18 @@
 ---
 
 ### ❓What I'm Working on:
+<p>VR Game</p>
+<p>To Do List (App)</p>
+<p>SpeedCubeTrainer</p>
+<p>Japnese Trainer</p>
+<p>Suvival Game 2.5D</p>
 
+---
+### Abandoned Projects:
 <p>Blaze Programming Language v1.0 (I am working on a compiled version)</p>
 <p>Blaze Programming Language Site</p>
 <p>Mystic Shadows (video game)</p>
-<p>SpeedCubeTrainer</p>
 <p>Chess+ (video game made only with c++)</p>
-
 ---
 
 ### 📫 How to reach me:
