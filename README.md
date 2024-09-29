@@ -24,7 +24,7 @@
 - 🔭 I don't currently work
 - 🌱 I’m currently studing at ITIS
 - ⚡ Fun fact: i like SUSHI! and practical speedcube!
-- 🇪🇺 I can speak: Italian, English
+- 🇪🇺 I can speak: Italian, English and a little bit of Japanese
 
 ---
 
