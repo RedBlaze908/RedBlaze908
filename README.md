@@ -73,11 +73,13 @@
 <p>Suvival Game 2.5D</p>
 
 ---
+
 ### Abandoned Projects:
 <p>Blaze Programming Language v1.0 (I am working on a compiled version)</p>
 <p>Blaze Programming Language Site</p>
 <p>Mystic Shadows (video game)</p>
 <p>Chess+ (video game made only with c++)</p>
+
 ---
 
 ### 📫 How to reach me:
