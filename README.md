@@ -11,7 +11,7 @@
          <a href="https://github.com/RedBlaze908?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RedBlaze908?color=red&style=for-the-badge&labelColor=gray&logo=star"/>
 <!--![Download My Language](https://img.shields.io/github/downloads/RedBlaze908/Blaze/latest/total?label=Download%20My%20Programming%20Language%20%7C%20Blaze)--></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=redblaze908&label=Profile%20views&color=0e75b6&style=flat" alt="redblaze908" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=redblaze908&label=Profile%20views&color=0e75b6&style=flat" alt="redblaze908" /> </p>-->
 
 
 
@@ -30,7 +30,7 @@
 
 ### 🖥Languages I use:
 
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,bootstrap,wordpress" />
+<img src="https://skillicons.dev/icons?i=c,cpp,git,html,css,python,bootstrap,wordpress" />
 <img align="left" alt="Blaze" width="40px" src="https://github.com/RedBlaze908/RedBlaze908/blob/main/blaze%201.png" href="https://github.com/RedBlaze908/Blaze"/>
 
 <br />
@@ -39,12 +39,12 @@
 
 ---
 ### Programming Languages I Know A Little:
-<img src="https://skillicons.dev/icons?i=javascript,php,java,cs,react,git" />
+<img src="https://skillicons.dev/icons?i=javascript,php,java,cs,react" />
 <br />
 
 ---
 ### 📱Application I use:
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,obsidian,eclipse,unity,unreal,godot" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,obsidian,eclipse,godot,unreal,unity" />
 <img align="left" alt="Notepad++" width="40px" src="https://pbs.twimg.com/profile_images/1230290237500334081/_gXAv0GU_400x400.png" />
 <img align="left" alt="Draw io" width="40px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png" />
 <br />
@@ -66,10 +66,11 @@
 ---
 
 ### ❓What I'm Working on:
-<p>VR Game</p>
+<p>VR Game (Almost Done)</p>
+<p>Survival Game Open World (Maybe Multiplayer)</p>
 <p>To Do List (App)</p>
 <p>SpeedCubeTrainer</p>
-<p>Japnese Trainer</p>
+<p>Japanese Trainer</p>
 <p>Suvival Game 2.5D</p>
 
 ---
