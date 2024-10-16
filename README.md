@@ -56,9 +56,11 @@
 ### 💻 What I worked on:
 
 <p>
-  <a href="https://redblaze908s.wixsite.com/redblaze908-site"><ing align="left" alt="RedBlaze908 Sitec="https://redblaze908s.wixsite.com/redblaze908-site"> <a href="https://redblaze908s.wixsite.com/redblaze908-site">My site</a>
+  <a href="https://redblaze908s.wixsite.com/redblaze908-site" target="_blank">My Old Site</a>
 </p>
+<p><a href="https://redblaze908.github.io/RedBlaze908-Site/" target="_blank">My New Site</a></p>
 <p>Blaze Programming Language beta 1.0</p>
+<p>VR Game (Simulation of how to assemble a pc)</p>
 <br />
 <br />
 <br />
@@ -66,12 +68,12 @@
 ---
 
 ### ❓What I'm Working on:
-<p>VR Game (Almost Done)</p>
+<p>Suvival Game 2.5D (I'm working on it (c++))</p>
 <p>Survival Game Open World (Maybe Multiplayer)</p>
 <p>To Do List (App)</p>
 <p>SpeedCubeTrainer</p>
 <p>Japanese Trainer</p>
-<p>Suvival Game 2.5D</p>
+
 
 ---
 
