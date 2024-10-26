@@ -68,8 +68,7 @@
 ---
 
 ### ❓What I'm Working on:
-<p>Suvival Game 2.5D (I'm working on it (c++))</p>
-<p>Survival Game Open World (Maybe Multiplayer)</p>
+<p>Survival Game Open World (c++ SFML | Maybe Multiplayer)</p>
 <p>To Do List (App)</p>
 <p>SpeedCubeTrainer</p>
 <p>Japanese Trainer</p>
@@ -82,6 +81,7 @@
 <p>Blaze Programming Language Site</p>
 <p>Mystic Shadows (video game)</p>
 <p>Chess+ (video game made only with c++)</p>
+<p>Suvival Game 2.5D (I'm working on it (c++))</p>
 
 ---
 
