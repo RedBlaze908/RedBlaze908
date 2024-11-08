@@ -39,7 +39,7 @@
 
 ---
 ### Programming Languages I Know A Little:
-<img src="https://skillicons.dev/icons?i=javascript,php,java,cs,react" />
+<img src="https://skillicons.dev/icons?i=javascript,rust,php,java,cs,react" />
 <br />
 
 ---
