@@ -30,7 +30,7 @@
 
 ### 🖥Languages I use:
 
-<img src="https://skillicons.dev/icons?i=c,cpp,git,html,css,bootstrap,wordpress,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,git,html,css,bootstrap,javascript,wordpress,python" />
 <!--<img align="left" alt="Blaze" width="40px" src="https://github.com/RedBlaze908/RedBlaze908/blob/main/blaze%201.png" href="https://github.com/RedBlaze908/Blaze"/>-->
 
 <br />
@@ -39,7 +39,7 @@
 
 ---
 ### Programming Languages I Know A Little:
-<img src="https://skillicons.dev/icons?i=javascript,rust,php,java,cs,react" />
+<img src="https://skillicons.dev/icons?i=rust,php,java,cs,react" />
 <br />
 
 ---
