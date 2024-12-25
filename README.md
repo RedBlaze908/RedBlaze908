@@ -68,11 +68,10 @@
 ---
 
 ### ❓What I'm Working on:
-<p>Survival Game Open World (c++ SFML | Maybe Multiplayer)</p>
+<p>SpeedCubeTrainer (release: soon)</p>
 <p>To Do List (App)</p>
-<p>SpeedCubeTrainer</p>
 <p>Japanese Trainer</p>
-
+<p>Learn Linux (release: soon)</p>
 
 ---
 
@@ -82,14 +81,11 @@
 <p>Mystic Shadows (video game)</p>
 <p>Chess+ (video game made only with c++)</p>
 <p>Suvival Game 2.5D (I'm working on it (c++))</p>
+<p>Survival Game Open World (c++ SFML | Maybe Multiplayer)</p>
 
 ---
 
 ### 📫 How to reach me:
-
-<p>
-<a href="https://t.me/RedBlaze908"><img align="left" alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/></a>Telegram &middot; <a href="https://t.me/RedBlaze908">@RedBlaze908</a>
-</p>
 <p>
   <a href="https://twitch.tv/RedBlaze90"><img align="left" alt="Twitch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg"/></a>Twitch &middot; <a href="https://www.twitch.tv/redblaze90">RedBlaze90</a>
 </p>
