@@ -30,7 +30,7 @@
 
 ### 🖥Languages I use:
 
-<img src="https://skillicons.dev/icons?i=c,cpp,git,html,css,bootstrap,javascript,wordpress,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,git,html,css,bootstrap,javascript,python" />
 <!--<img align="left" alt="Blaze" width="40px" src="https://github.com/RedBlaze908/RedBlaze908/blob/main/blaze%201.png" href="https://github.com/RedBlaze908/Blaze"/>-->
 
 <br />
@@ -39,13 +39,13 @@
 
 ---
 ### Programming Languages I Know A Little:
-<img src="https://skillicons.dev/icons?i=rust,php,java,cs,react" />
+<img src="https://skillicons.dev/icons?i=cmake,rust,php,java,cs" />
 <br />
 
 ---
 ### 📱Application I use:
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,obsidian,eclipse,godot,blender,unreal,unity" />
-<img align="left" alt="Notepad++" width="40px" src="https://pbs.twimg.com/profile_images/1230290237500334081/_gXAv0GU_400x400.png" />
+<img align="left" alt="Notepad++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" />
 <img align="left" alt="Draw io" width="40px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png" />
 <br />
 <br />
@@ -61,6 +61,7 @@
 <p><a href="https://redblaze908.github.io/RedBlaze908-Site/" target="_blank">My New Site</a></p>
 <p>Blaze Programming Language beta 1.0</p>
 <p>VR Game (Simulation of how to assemble a pc)</p>
+<p>Learn Linux (Game site for learn linux)</p>
 <br />
 <br />
 <br />
@@ -69,9 +70,7 @@
 
 ### ❓What I'm Working on:
 <p>SpeedCubeTrainer (release: soon)</p>
-<p>To Do List (App)</p>
-<p>Japanese Trainer</p>
-<p>Learn Linux (release: soon)</p>
+<p>Learn Linux (status: finished release: ???)</p>
 
 ---
 
@@ -82,6 +81,8 @@
 <p>Chess+ (video game made only with c++)</p>
 <p>Suvival Game 2.5D (I'm working on it (c++))</p>
 <p>Survival Game Open World (c++ SFML | Maybe Multiplayer)</p>
+<p>To Do List (App)</p>
+<p>Japanese Trainer</p>
 
 ---
 
