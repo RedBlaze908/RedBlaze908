@@ -43,7 +43,7 @@
 
 ---
 ### Programming Languages I Know A Little:
-<img src="https://skillicons.dev/icons?i=cmake,php,java,cs" />
+<img src="https://skillicons.dev/icons?i=vue,cmake,php,java,cs" />
 <br />
 
 ---
