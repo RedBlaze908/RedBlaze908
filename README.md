@@ -30,8 +30,11 @@
 
 ### 🖥Languages I use:
 
-<img src="https://skillicons.dev/icons?i=c,cpp,git,html,css,bootstrap,javascript,python" />
-<!--<img align="left" alt="Blaze" width="40px" src="https://github.com/RedBlaze908/RedBlaze908/blob/main/blaze%201.png" href="https://github.com/RedBlaze908/Blaze"/>-->
+<div style="display:flex">
+         <img src="https://skillicons.dev/icons?i=c,cpp,git,html,css,javascript,bootstrap,json,python" />
+         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" width="50" />
+         <!--<img align="left" alt="Blaze" width="40px" src="https://github.com/RedBlaze908/RedBlaze908/blob/main/blaze%201.png" href="https://github.com/RedBlaze908/Blaze"/>-->
+</div>
 
 <br />
 <br />
