@@ -59,16 +59,16 @@
 
 ### 💻 What I worked on:
 
-<p>
-  <a href="https://redblaze908s.wixsite.com/redblaze908-site" target="_blank">My Old Site</a>
-</p>
-<p><a href="https://redblaze908.github.io/RedBlaze908-Site/" target="_blank">My New Site</a></p>
-<p>Blaze Programming Language beta 1.0</p>
-<p>VR Game (Simulation of how to assemble a pc)</p>
-<p>Learn Linux (Game site for learn linux)</p>
-<br />
-<br />
-<br />
+<details>
+<summary> <b>Projects</b> </summary>
+<br>
+<ul>
+ <li> <a href="https://redblaze908.github.io/RedBlaze908-Site/" target="_blank">My New Site</a></li>
+ <li> Blaze Programming Language beta 1.0</li>
+ <li> VR Game (Simulation of how to assemble a pc)</li>
+ <li> Learn Linux (Game site for learn linux)</li>
+</ul>
+</details>
 
 ---
 
@@ -79,14 +79,20 @@
 ---
 
 ### Abandoned Projects:
-<p>Blaze Programming Language v1.0 (I am working on a compiled version)</p>
-<p>Blaze Programming Language Site</p>
-<p>Mystic Shadows (video game)</p>
-<p>Chess+ (video game made only with c++)</p>
-<p>Suvival Game 2.5D (I'm working on it (c++))</p>
-<p>Survival Game Open World (c++ SFML | Maybe Multiplayer)</p>
-<p>To Do List (App)</p>
-<p>Japanese Trainer</p>
+<details>
+<summary> <b>Projects</b> </summary>
+<br>
+<ul>
+ <li> Blaze Programming Language v1.0 (I wass working on a compiled version)</li>
+ <li> Blaze Programming Language Site</li>
+ <li> Mystic Shadows (video game)</li>
+ <li> Chess+ (video game made only with c++)</li>
+ <li> Suvival Game 2.5D (c++)</li>
+ <li> Survival Game Open World (c++ SFML | Maybe Multiplayer)</li>
+ <li> To Do List (App)</li>
+ <li> Japanese Trainer</li>
+</ul>
+</details>
 
 ---
 
@@ -116,8 +122,16 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redblaze908&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <a href="https://leetcode.com/u/RedBlaze908/"><img width="325" align="center" src="https://leetcard.jacoblin.cool/RedBlaze908?ext=activity" alt="LeetCode"></a>
+  
 </div>
 
+<h2 align="center">🔥Favorite Repositories🔥</h2>
+<br>
+<div align=center>
+         
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redblaze908&repo=Physics-Simulation&theme=radical "Physics-Simulation")](https://github.com/RedBlaze908/Physics-Simulation)
+
+</div>
     
            
 <div align="center">
