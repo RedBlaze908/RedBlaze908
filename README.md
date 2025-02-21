@@ -64,6 +64,7 @@
 <br>
 <ul>
  <li> <a href="https://redblaze908.github.io/RedBlaze908-Site/" target="_blank">My New Site</a></li>
+ <li> <a href="https://redblaze908.github.io/SpeedCubeTrainer/" target="_blank">SpeedCubeTrainer</a></li>
  <li> Blaze Programming Language beta 1.0</li>
  <li> VR Game (Simulation of how to assemble a pc)</li>
  <li> Learn Linux (Game site for learn linux)</li>
@@ -73,7 +74,6 @@
 ---
 
 ### ❓What I'm Working on:
-<p>SpeedCubeTrainer (release: soon)</p>
 <p>Learn Linux (status: finished release: ???)</p>
 
 ---
