@@ -68,6 +68,7 @@
  <li> Blaze Programming Language beta 1.0</li>
  <li> VR Game (Simulation of how to assemble a pc)</li>
  <li> Learn Linux (Game site for learn linux)</li>
+ <li> Tetris Clone (C++ | SFML)</li>
 </ul>
 </details>
 
