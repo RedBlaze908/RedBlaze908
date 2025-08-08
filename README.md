@@ -31,7 +31,7 @@
 ### 🖥Languages I use:
 
 <div style="display:flex">
-         <img src="https://skillicons.dev/icons?i=c,cpp,git,html,css,javascript,bootstrap" />
+         <img src="https://skillicons.dev/icons?i=c,cpp,git,html,css,javascript,bootstrap,nodejs,mysql,express" />
          <img src="json.svg" width="48" />
          <img src="https://skillicons.dev/icons?i=python" />
          <!--<img align="left" alt="Blaze" width="40px" src="https://github.com/RedBlaze908/RedBlaze908/blob/main/blaze%201.png" href="https://github.com/RedBlaze908/Blaze"/>-->
@@ -48,7 +48,7 @@
 
 ---
 ### 📱Application I use:
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,obsidian,godot,blender,unreal,unity" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,idea,obsidian,godot,blender,unreal,unity" />
 <img align="left" alt="Notepad++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" />
 <img align="left" alt="Draw io" width="40px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png" />
 <br />
