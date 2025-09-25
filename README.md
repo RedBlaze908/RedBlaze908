@@ -75,8 +75,8 @@
 ---
 
 ### ❓What I'm Working on:
+<p>ShadowSouls (2D game)</p>
 <p>Learn Linux (status: finished release: ???)</p>
-<p>Pac Man Clone In C++ </p>
 <p>Update SpeedCubeTrainer V1.1</p>
 
 ---
@@ -94,6 +94,7 @@
  <li> Survival Game Open World (c++ SFML | Maybe Multiplayer)</li>
  <li> To Do List (App)</li>
  <li> Japanese Trainer</li>
+ <li>Pac Man Clone In C++ </li>
 </ul>
 </details>
 
