@@ -31,7 +31,7 @@
 ### 🖥Languages I use:
 
 <div style="display:flex">
-         <img src="https://skillicons.dev/icons?i=c,cpp,git,html,css,javascript,bootstrap,nodejs,mysql,express" />
+         <img src="https://skillicons.dev/icons?i=c,cpp,git,html,css,javascript,bootstrap,php,mysql,nodejs,express" />
          <img src="json.svg" width="48" />
          <img src="https://skillicons.dev/icons?i=python" />
          <!--<img align="left" alt="Blaze" width="40px" src="https://github.com/RedBlaze908/RedBlaze908/blob/main/blaze%201.png" href="https://github.com/RedBlaze908/Blaze"/>-->
@@ -43,7 +43,7 @@
 
 ---
 ### Programming Languages I Know A Little:
-<img src="https://skillicons.dev/icons?i=vue,cmake,php,java,cs" />
+<img src="https://skillicons.dev/icons?i=vue,cmake,java,cs" />
 <br />
 
 ---
@@ -63,7 +63,7 @@
 <summary> <b>Projects</b> </summary>
 <br>
 <ul>
- <li> <a href="https://redblaze908.github.io/RedBlaze908-Site/" target="_blank">My New Site</a></li>
+ <li> <a href="https://redblaze908.github.io/My-Site/" target="_blank">My Site</a></li>
  <li> <a href="https://redblaze908.github.io/SpeedCubeTrainer/" target="_blank">SpeedCubeTrainer</a></li>
  <li> Blaze Programming Language beta 1.0</li>
  <li> VR Game (Simulation of how to assemble a pc)</li>
@@ -86,7 +86,7 @@
 <summary> <b>Projects</b> </summary>
 <br>
 <ul>
- <li> Blaze Programming Language v1.0 (I wass working on a compiled version)</li>
+ <li> Blaze Programming Language v1.0 (I was working on a compiled version)</li>
  <li> Blaze Programming Language Site</li>
  <li> Mystic Shadows (video game)</li>
  <li> Chess+ (video game made only with c++)</li>
