@@ -33,6 +33,7 @@
 <div style="display:flex">
          <img src="https://skillicons.dev/icons?i=c,cpp,git,html,css,javascript,bootstrap,php,mysql,nodejs,express" />
          <img src="json.svg" width="48" />
+         <img src="xml.svg" width="48" />
          <img src="https://skillicons.dev/icons?i=python" />
          <!--<img align="left" alt="Blaze" width="40px" src="https://github.com/RedBlaze908/RedBlaze908/blob/main/blaze%201.png" href="https://github.com/RedBlaze908/Blaze"/>-->
 </div>
