@@ -69,6 +69,7 @@
  <li> VR Game (Simulation of how to assemble a pc)</li>
  <li> Learn Linux (Game site for learn linux)</li>
  <li> Tetris Clone (C++ | SFML)</li>
+ <li> A School CMS (full stack website)</li>
 </ul>
 </details>
 
