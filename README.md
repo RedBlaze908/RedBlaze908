@@ -31,7 +31,7 @@
 ### 🖥Languages I use:
 
 <div style="display:flex; align-items:center;">
-         <img align="middle" src="https://skillicons.dev/icons?i=c,cpp,git,html,css,javascript,bootstrap,php,mysql,nodejs,express" />
+         <img align="middle" src="https://skillicons.dev/icons?i=c,cpp,git,html,css,javascript,bootstrap,php,mysql,htmx,nodejs,express" />
          <img align="middle" src="json.svg" width="48" />
          <img align="middle" src="xml.svg" width="48" /> 
          <img align="middle" src="https://skillicons.dev/icons?i=python" />
