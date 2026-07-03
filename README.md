@@ -22,7 +22,7 @@
 - Developer - Web Developer - Game Developer - Gamer
 
 - 🔭 I don't currently work
-- 🌱 I’m currently studing at ITIS
+- 🌱 I’m currently studing at an IT University
 - ⚡ Fun fact: i like SUSHI! and practical speedcube!
 - 🇪🇺 I can speak: Italian, English and a little bit of Japanese
 
@@ -76,9 +76,9 @@
 ---
 
 ### ❓What I'm Working on:
-<p>ShadowSouls (2D game)</p>
-<p>Learn Linux (status: finished release: ???)</p>
-<p>Update SpeedCubeTrainer V1.1</p>
+<p>My Website V2</p>
+<p>Update SpeedCubeTrainer V2</p>
+<p> Japanese Trainer</p>
 
 ---
 
@@ -94,8 +94,9 @@
  <li> Suvival Game 2.5D (c++)</li>
  <li> Survival Game Open World (c++ SFML | Maybe Multiplayer)</li>
  <li> To Do List (App)</li>
- <li> Japanese Trainer</li>
  <li>Pac Man Clone In C++ </li>
+ <li>ShadowSouls (2D game)</li>
+ <li>Learn Linux (status: finished release: ???)</li>
 </ul>
 </details>
 
@@ -118,30 +119,19 @@
   <a href="https://discord.gg/kJyN47dVgU"><img align="left" alt="Discord" width="26px" src="https://play-lh.googleusercontent.com/xQ-meXSBylIU8VKA7yUQXDwRu99JX8ic7mAsM4sBidjRgtMyhBDmYD4CpATqrdc1SA=s48-rw"/></a>Discord &middot; <a href="https://discord.gg/kJyN47dVgU">My Server Discord</a>
 </p>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C8A122DSK0)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=RedBlaze908&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=RedBlaze908&count_private=true&show_icons=true&layout=compact&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-stats-extended.vercel.app/api?username=RedBlaze908&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-stats-extended.vercel.app/api/top-langs?username=RedBlaze908&count_private=true&show_icons=true&layout=compact&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
          
   <!--<img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redblaze908&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />-->
          
   <a href="https://leetcode.com/u/RedBlaze908/"><img width="325" align="center" src="https://leetcard.jacoblin.cool/RedBlaze908?ext=activity" alt="LeetCode"></a>
   
-</div>
-
-<h2 align="center">🔥Favorite Repositories🔥</h2>
-<br>
-<div align=center>
-         
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redblaze908&repo=SpeedCubeTrainer&theme=radical "SpeedCubeTrainer")](https://github.com/RedBlaze908/SpeedCubeTrainer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redblaze908&repo=TemplateGamesCpp-Raylib-Enet&theme=radical "Physics-Simulation")](https://github.com/RedBlaze908/TemplateGamesCpp-Raylib-Enet)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redblaze908&repo=Physics-Simulation&theme=radical "Physics-Simulation")](https://github.com/RedBlaze908/Physics-Simulation)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redblaze908&repo=Tetris-Clone&theme=radical "Tetris-Clone")](https://github.com/RedBlaze908/Tetris-Clone)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redblaze908&repo=Pac-Man-Clone&theme=radical "Pac-Man-Clone")](https://github.com/RedBlaze908/Pac-Man-Clone)
-
 </div>
     
            
