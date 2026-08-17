@@ -77,8 +77,7 @@
 
 ### ❓What I'm Working on:
 <p>My Website V2</p>
-<p>Update SpeedCubeTrainer V2</p>
-<p> Japanese Trainer</p>
+<p>SpeedCubeTrainer V2</p>
 
 ---
 
@@ -97,6 +96,7 @@
  <li>Pac Man Clone In C++ </li>
  <li>ShadowSouls (2D game)</li>
  <li>Learn Linux (status: finished release: ???)</li>
+ <li>Japanese Trainer</li>
 </ul>
 </details>
 
