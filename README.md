@@ -31,7 +31,7 @@
 ### 🖥Languages I use:
 
 <div style="display:flex; align-items:center;">
-         <img align="middle" src="https://skillicons.dev/icons?i=c,cpp,git,html,css,javascript,bootstrap,php,mysql,htmx,nodejs,express" />
+         <img align="middle" src="https://skillicons.dev/icons?i=c,cpp,git,html,css,javascript,tailwind,php,mysql,htmx,bootstrap" />
          <img align="middle" src="json.svg" width="48" />
          <img align="middle" src="xml.svg" width="48" /> 
          <img align="middle" src="https://skillicons.dev/icons?i=python" />
@@ -43,7 +43,7 @@
 
 ---
 ### Programming Languages I Know A Little:
-<img src="https://skillicons.dev/icons?i=vue,cmake,java,cs" />
+<img src="https://skillicons.dev/icons?i=vue,nodejs,express,cmake,java,cs" />
 <br />
 
 ---
